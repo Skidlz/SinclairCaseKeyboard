@@ -15,7 +15,7 @@ The text was painted using Tamiya "TS-27 Matt White" and Testors "1250T Flat Red
 ## PCBs
 The boards were designed in Eagle CAD and fabbed at JLCPCB
 
-The plate is 1.2mm
+The plate is 1.2mm black FR-4 (remove to select "Remove Mark")
 
 The flex cable is 0.11mm with a 0.20mm polyimide stiffener
 
