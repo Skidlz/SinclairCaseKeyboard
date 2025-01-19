@@ -25,3 +25,13 @@ The switches are blue Redragon low profile
 The keycaps were taken from a Redragon K603 keyboard
 
 The key labels come from 4keyboard.com
+
+# Images
+
+![Case](/Images/Sinclair%20Case%20v4%20render.png)
+
+![Keyboard PCB](/Images/Keyboard%20v2%20pcb%20render.jpg)
+
+![Plate](/Images/Keyboard%20v2%20plate%20render.jpg)
+
+![Flex Cable](/Images/FFCable%20v2.5.png)
