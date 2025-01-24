@@ -6,6 +6,8 @@ Includes design files for:
 * keyboard pcb
 * keyboard plate
 * keyboard flat flex cable
+  
+![Finsihed Case](/Images/case_wood.jpg)
 
 ### Case
 The case was designed using Inkscape and cut at Ponoko using their 3.00mm "Black Matte Acrylic"
